@@ -1,0 +1,56 @@
+{
+  "lead_id": "LEAD-2026-003",
+  "buyer_name": "Anonymous (form not filled)",
+  "status": "success",
+  "requirements": {
+    "budget_min": 250000,
+    "budget_max": 250000,
+    "bedrooms_min": 4,
+    "bedrooms_max": 4,
+    "neighbourhood": [
+      "Downtown Miami",
+      "Brickell"
+    ],
+    "property_type": [],
+    "must_haves": [
+      "pool",
+      "ocean view"
+    ],
+    "nice_to_haves": [],
+    "timeline": "urgent",
+    "buyer_profile": "unknown",
+    "lead_quality": 4,
+    "lead_quality_reason": "Buyer has a clear idea of what they want but is anonymous and has a tight timeline",
+    "flags": [
+      "anonymous",
+      "vague_budget"
+    ]
+  },
+  "matches": {
+    "matches": [],
+    "matching_note": "Unfortunately, there are no listings that match the buyer's criteria within the specified budget. The provided listing exceeds the budget and does not meet all the must-haves, such as having a pool.",
+    "filters_relaxed": false,
+    "total_after_filter": 1
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The buyer needs to find a place this week",
+    "realtor_talking_points": [
+      "What is your preferred location in Downtown Miami or Brickell?",
+      "Can you provide more information about your budget flexibility?",
+      "Are you open to considering properties with a community pool instead of a private one?",
+      "What is your current living situation and what is driving your urgent timeline?"
+    ],
+    "concerns_before_outreach": [
+      "The buyer's budget may be unrealistic for their criteria",
+      "The anonymous nature of the lead may make it harder to build trust"
+    ],
+    "suggested_next_action": "Send an email to acknowledge the buyer's inquiry and request a call to discuss their criteria",
+    "outreach_channel": "email",
+    "outreach_reason": "The buyer has specified email as their preferred contact method",
+    "pre_qual_questions": [
+      "Are you pre-approved for a mortgage?",
+      "What is your current employment situation and how will you be financing your purchase?"
+    ]
+  }
+}

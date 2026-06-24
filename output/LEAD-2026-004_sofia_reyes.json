@@ -1,0 +1,116 @@
+{
+  "lead_id": "LEAD-2026-004",
+  "buyer_name": "Sofia Reyes",
+  "status": "success",
+  "requirements": {
+    "budget_min": null,
+    "budget_max": null,
+    "bedrooms_min": null,
+    "bedrooms_max": null,
+    "neighbourhood": [
+      "Miami"
+    ],
+    "property_type": [
+      "investment"
+    ],
+    "must_haves": [],
+    "nice_to_haves": [],
+    "timeline": "unknown",
+    "buyer_profile": "investor",
+    "lead_quality": 3,
+    "lead_quality_reason": "The buyer has shown interest but hasn't provided any specific requirements.",
+    "flags": [
+      "vague_budget",
+      "no_timeline"
+    ]
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100203",
+        "address": "2380 Harbor Drive, North Miami",
+        "neighborhood": "North Miami",
+        "price": 406000,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "sqft": 1157,
+        "match_score": 8,
+        "why_it_fits": "This condo is a great match due to its relatively affordable price and modern features such as smart home technology and central AC. The condo also has a concierge and high ceilings, making it a comfortable and convenient option.",
+        "caveats": "None"
+      },
+      {
+        "listing_id": "MLS-100273",
+        "address": "9796 Alhambra Circle, Downtown Miami",
+        "neighborhood": "Downtown Miami",
+        "price": 539000,
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "sqft": 1042,
+        "match_score": 7,
+        "why_it_fits": "This condo is a good match due to its downtown location and affordable price. It also features a walk-in closet, boat dock, and granite countertops, making it a great option for those who want to be close to the city.",
+        "caveats": "Smaller square footage"
+      },
+      {
+        "listing_id": "MLS-100023",
+        "address": "4109 Hibiscus Drive, Miami Beach",
+        "neighborhood": "Miami Beach",
+        "price": 600000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1589,
+        "match_score": 8,
+        "why_it_fits": "This townhouse is a great match due to its modern construction and features such as a tennis court and gated community. It also has a relatively affordable price and a good location in Miami Beach.",
+        "caveats": "None"
+      },
+      {
+        "listing_id": "MLS-100261",
+        "address": "4759 Hibiscus Drive, Downtown Miami",
+        "neighborhood": "Downtown Miami",
+        "price": 594000,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": 1992,
+        "match_score": 7,
+        "why_it_fits": "This condo is a good match due to its downtown location and relatively affordable price. It also features a gym, rooftop, and concierge, making it a great option for those who want to be close to the city.",
+        "caveats": "Older building"
+      },
+      {
+        "listing_id": "MLS-100001",
+        "address": "7009 Granada Boulevard, North Miami",
+        "neighborhood": "North Miami",
+        "price": 887000,
+        "bedrooms": 3,
+        "bathrooms": 4.5,
+        "sqft": 2043,
+        "match_score": 6,
+        "why_it_fits": "This single-family home is a good match due to its large square footage and modern features such as a smart home system and home office. It also has a waterfront location and a tennis court, making it a great option for those who want a lot of space and amenities.",
+        "caveats": "Higher price point"
+      }
+    ],
+    "matching_note": "The current inventory offers a wide range of options, from condos to single-family homes, in various neighborhoods and price points. Sofia Reyes has a lot of choices to consider, and it's recommended that she prioritizes her needs and preferences to find the best fit.",
+    "filters_relaxed": false,
+    "total_after_filter": 46
+  },
+  "analysis": {
+    "urgency": "warm",
+    "urgency_reason": "The buyer is interested in finding an investment property, but lacks clear budget and timeline information.",
+    "realtor_talking_points": [
+      "What's your investment goal for this property, rental income or long-term appreciation?",
+      "Can you give me a rough idea of your budget for this investment property?",
+      "What type of properties are you interested in, condos, townhouses, or single-family homes?",
+      "How soon are you looking to make a purchase?"
+    ],
+    "concerns_before_outreach": [
+      "Lack of clear budget and timeline information",
+      "Buyer's vague requirements may require additional questioning to understand their needs"
+    ],
+    "suggested_next_action": "Schedule a call to discuss Sofia's investment goals and priorities",
+    "outreach_channel": "call",
+    "outreach_reason": "A call allows for a more interactive and engaging conversation to clarify Sofia's needs and priorities",
+    "pre_qual_questions": [
+      "What's your current real estate investment experience?",
+      "Do you have a preferred financing option in mind?",
+      "Are you open to considering properties that need renovation or are you looking for a turn-key investment?"
+    ]
+  }
+}

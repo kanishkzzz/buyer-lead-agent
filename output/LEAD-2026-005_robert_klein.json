@@ -1,0 +1,116 @@
+{
+  "lead_id": "LEAD-2026-005",
+  "buyer_name": "Robert Klein",
+  "status": "success",
+  "requirements": {
+    "budget_min": 950000,
+    "budget_max": 1250000,
+    "bedrooms_min": null,
+    "bedrooms_max": null,
+    "neighbourhood": [
+      "Bay Road"
+    ],
+    "property_type": [
+      "house"
+    ],
+    "must_haves": [],
+    "nice_to_haves": [],
+    "timeline": "unknown",
+    "buyer_profile": "unknown",
+    "lead_quality": 4,
+    "lead_quality_reason": "Buyer has a specific property in mind and is considering making an offer",
+    "flags": [
+      "no_phone",
+      "vague_buyer_profile"
+    ]
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100147",
+        "address": "960 Coral Way, Wynwood",
+        "neighborhood": "Wynwood",
+        "price": 1175000,
+        "bedrooms": 6,
+        "bathrooms": 6,
+        "sqft": 2702,
+        "match_score": 8,
+        "why_it_fits": "This listing fits within the buyer's budget and offers a large number of bedrooms and bathrooms. The property also features a doorman, boat dock, and hurricane impact windows, making it a desirable option.",
+        "caveats": "None"
+      },
+      {
+        "listing_id": "MLS-100055",
+        "address": "9464 West Avenue, Mid-Beach",
+        "neighborhood": "Mid-Beach",
+        "price": 1215000,
+        "bedrooms": 6,
+        "bathrooms": 4.5,
+        "sqft": 3714,
+        "match_score": 8,
+        "why_it_fits": "This listing is within the buyer's budget and offers a large number of bedrooms and bathrooms. The property also features a rooftop, pet-friendly environment, and private beach access, making it a great option.",
+        "caveats": "None"
+      },
+      {
+        "listing_id": "MLS-100231",
+        "address": "9239 West Avenue, Pinecrest",
+        "neighborhood": "Pinecrest",
+        "price": 1201000,
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "sqft": 1521,
+        "match_score": 7,
+        "why_it_fits": "This listing is within the buyer's budget and offers a desirable location. The property features a garden, terrace, and home office, making it a great option for those looking for a more relaxed atmosphere.",
+        "caveats": "Fewer bedrooms compared to other options"
+      },
+      {
+        "listing_id": "MLS-100011",
+        "address": "8910 Michigan Avenue, Edgewater",
+        "neighborhood": "Edgewater",
+        "price": 1470000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 2618,
+        "match_score": 7,
+        "why_it_fits": "This listing is within the buyer's budget and offers a desirable location. The property features hardwood floors, a home office, and a walk-in closet, making it a great option for those looking for a more traditional home.",
+        "caveats": "Fewer bedrooms compared to other options"
+      },
+      {
+        "listing_id": "MLS-100210",
+        "address": "1247 Brickell Avenue, Brickell",
+        "neighborhood": "Brickell",
+        "price": 1554709,
+        "bedrooms": 3,
+        "bathrooms": 2.5,
+        "sqft": 1820,
+        "match_score": 6,
+        "why_it_fits": "This listing is within the buyer's budget and offers a desirable location. The property features a pool, modern kitchen, and garage, making it a great option for those looking for a more urban atmosphere.",
+        "caveats": "Fewer bedrooms and square footage compared to other options"
+      }
+    ],
+    "matching_note": "The current inventory offers a range of options within the buyer's budget, with varying numbers of bedrooms and amenities. The top matches offer a mix of location, amenities, and price, but some may have fewer bedrooms or square footage than others.",
+    "filters_relaxed": false,
+    "total_after_filter": 116
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The buyer is considering making an offer on a specific property and is seeking advice on their offer price.",
+    "realtor_talking_points": [
+      "The listing at 1820 Bay Road and the buyer's proposed offer price of $950K",
+      "The potential for negotiation and the seller's motivation",
+      "Alternative properties that may better fit the buyer's needs, such as 960 Coral Way or 9464 West Avenue",
+      "The importance of understanding the buyer's timeline and priorities"
+    ],
+    "concerns_before_outreach": [
+      "The buyer's vague profile and lack of clear needs or preferences",
+      "The potential for the buyer to be unrealistic about their offer price"
+    ],
+    "suggested_next_action": "Contact the buyer via phone to discuss their interests and provide guidance on their proposed offer",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a more personal and interactive conversation to understand the buyer's needs and provide immediate guidance",
+    "pre_qual_questions": [
+      "What is your timeline for purchasing a property?",
+      "Can you tell me more about what you're looking for in a property, such as specific amenities or features?",
+      "Have you been pre-approved for a mortgage or have you spoken with a lender?"
+    ]
+  }
+}

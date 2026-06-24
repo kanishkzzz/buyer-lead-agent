@@ -1,0 +1,117 @@
+{
+  "lead_id": "LEAD-2026-001",
+  "buyer_name": "Marcus Thompson",
+  "status": "success",
+  "requirements": {
+    "budget_min": 600000,
+    "budget_max": 800000,
+    "bedrooms_min": 2,
+    "bedrooms_max": 3,
+    "neighbourhood": [
+      "Brickell",
+      "Downtown Miami"
+    ],
+    "property_type": [
+      "condo"
+    ],
+    "must_haves": [
+      "gym",
+      "balcony",
+      "city view"
+    ],
+    "nice_to_haves": [],
+    "timeline": "within 3 months",
+    "buyer_profile": "relocating",
+    "lead_quality": 4,
+    "lead_quality_reason": "Clear budget and specific requirements provided",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100261",
+        "address": "4759 Hibiscus Drive, Downtown Miami",
+        "neighborhood": "Downtown Miami",
+        "price": 594000,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": 1992,
+        "match_score": 9,
+        "why_it_fits": "This listing fits Marcus Thompson's requirements as it has a gym, is within the budget, and has a bay view. The condo also has a rooftop and a gated community, adding to its appeal.",
+        "caveats": "The listing is a bit older, built in 1959, but it has been well-maintained."
+      },
+      {
+        "listing_id": "MLS-100244",
+        "address": "9969 Indian Creek Drive, Downtown Miami",
+        "neighborhood": "Downtown Miami",
+        "price": 590000,
+        "bedrooms": 4,
+        "bathrooms": 4.5,
+        "sqft": 3330,
+        "match_score": 8.5,
+        "why_it_fits": "This villa has a gym and a terrace, which fits Marcus Thompson's must-haves. It also has a large square footage and is within the budget.",
+        "caveats": "The listing does not have a city view, but it has a large outdoor space."
+      },
+      {
+        "listing_id": "MLS-100277",
+        "address": "7267 Biscayne Boulevard #725, Brickell",
+        "neighborhood": "Brickell",
+        "price": 648000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1427,
+        "match_score": 8,
+        "why_it_fits": "This condo has a gym and a bay view, which fits Marcus Thompson's requirements. It also has a concierge and stainless steel appliances, adding to its appeal.",
+        "caveats": "The listing is a bit smaller than some of the other options, but it is well-located and has a good price per square foot."
+      },
+      {
+        "listing_id": "MLS-100092",
+        "address": "9612 SW 27th Avenue, Downtown Miami",
+        "neighborhood": "Downtown Miami",
+        "price": 751000,
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "sqft": 2581,
+        "match_score": 7.5,
+        "why_it_fits": "This single-family home has a city view and is within the budget. It also has a large square footage and a concierge, adding to its appeal.",
+        "caveats": "The listing does not have a gym, but it has a large outdoor space and a garage."
+      },
+      {
+        "listing_id": "MLS-100206",
+        "address": "6093 Euclid Avenue, Brickell",
+        "neighborhood": "Brickell",
+        "price": 762000,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "sqft": 1475,
+        "match_score": 7,
+        "why_it_fits": "This condo has a rooftop and a city view, which fits Marcus Thompson's requirements. It also has a pool and a tennis court, adding to its appeal.",
+        "caveats": "The listing is pending, and it only has 2 bedrooms, which is the minimum required."
+      }
+    ],
+    "matching_note": "The current inventory has a good selection of properties that fit Marcus Thompson's requirements, with a range of options in different neighborhoods and price points. However, some listings may require some compromise on certain features or amenities.",
+    "filters_relaxed": false,
+    "total_after_filter": 13
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The buyer needs to move in within 3 months and has a clear idea of their requirements",
+    "realtor_talking_points": [
+      "How soon can you start viewing properties in Brickell or Downtown Miami?",
+      "What are your priorities in a condo, is it the gym, city view, or something else?",
+      "Have you secured financing for your purchase, or would you like some recommendations?",
+      "Are you available to view properties this week or next?"
+    ],
+    "concerns_before_outreach": [
+      "Review the top matched properties to understand the options available",
+      "Be prepared to discuss potential compromises on certain features or amenities"
+    ],
+    "suggested_next_action": "Schedule a call with Marcus to discuss his requirements and viewings",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a more personal and immediate conversation to understand the buyer's needs",
+    "pre_qual_questions": [
+      "Have you worked with a realtor before, or is this your first time buying a property?",
+      "Do you have a pre-approval letter from a lender, or would you like some guidance on the financing process?"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "lead_id": "LEAD-2026-009",
+  "buyer_name": "Luis Hernandez",
+  "status": "success",
+  "requirements": {
+    "budget_min": null,
+    "budget_max": 750000,
+    "bedrooms_min": 2,
+    "bedrooms_max": 3,
+    "neighbourhood": [
+      "Brickell"
+    ],
+    "property_type": [
+      "townhouse"
+    ],
+    "must_haves": [
+      "2 parking spots"
+    ],
+    "nice_to_haves": [],
+    "timeline": "unknown",
+    "buyer_profile": "unknown",
+    "lead_quality": 4,
+    "lead_quality_reason": "Clear budget and property requirements",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100277",
+        "address": "7267 Biscayne Boulevard #725, Brickell",
+        "neighborhood": "Brickell",
+        "price": 648000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1427,
+        "match_score": 8,
+        "why_it_fits": "This condo meets Luis's budget and bedroom requirements. It also has a decent square footage and modern features like a concierge and gym. However, the listing does not explicitly mention parking spots, which is a must-have.",
+        "caveats": "Parking spots not mentioned"
+      },
+      {
+        "listing_id": "MLS-100206",
+        "address": "6093 Euclid Avenue, Brickell",
+        "neighborhood": "Brickell",
+        "price": 762000,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "sqft": 1475,
+        "match_score": 7,
+        "why_it_fits": "This condo is within Luis's budget and has the required number of bedrooms. It also has desirable features like a pool and waterfront view. However, the listing is pending, and it does not mention the number of parking spots.",
+        "caveats": "Pending sale, parking spots not mentioned"
+      },
+      {
+        "listing_id": "MLS-100216",
+        "address": "1176 Ponce de Leon Boulevard, Brickell",
+        "neighborhood": "Brickell",
+        "price": 1082000,
+        "bedrooms": 3,
+        "bathrooms": 3.5,
+        "sqft": 2011,
+        "match_score": 6,
+        "why_it_fits": "This townhouse meets Luis's bedroom requirements and has a garage, which likely includes the required 2 parking spots. However, it exceeds Luis's budget.",
+        "caveats": "Exceeds budget"
+      }
+    ],
+    "matching_note": "The current inventory is limited, and few listings meet all of Luis's requirements. The top matches are compromised by factors such as pending sales, unclear parking information, or budget exceedance.",
+    "filters_relaxed": false,
+    "total_after_filter": 5
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The buyer is looking for a specific type of property and is planning a cash purchase, indicating a potentially quick decision-making process.",
+    "realtor_talking_points": [
+      "What is your ideal timeline for finding and purchasing a townhouse in Brickell?",
+      "Can you tell me more about your priorities for the townhouse, aside from the 2-3 bedrooms and 2 parking spots?",
+      "Have you considered other neighborhoods besides Brickell, given the limited inventory?",
+      "How soon can you act on a property that meets your requirements?"
+    ],
+    "concerns_before_outreach": [
+      "Limited inventory that meets the buyer's requirements",
+      "Potential for properties to be pending sale or exceeding budget"
+    ],
+    "suggested_next_action": "Contact Luis via phone to discuss his requirements and potential properties",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a more personal and immediate conversation to discuss the buyer's specific needs and priorities",
+    "pre_qual_questions": [
+      "What is your current living situation, and what is driving your desire to move to a townhouse in Brickell?",
+      "Can you confirm that you have the funds available for a cash purchase?",
+      "Are there any specific amenities or features you are looking for in a townhouse, aside from the must-haves?"
+    ]
+  }
+}

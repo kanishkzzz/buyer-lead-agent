@@ -1,0 +1,118 @@
+{
+  "lead_id": "LEAD-2026-008",
+  "buyer_name": "Jennifer Walsh",
+  "status": "success",
+  "requirements": {
+    "budget_min": 1200000,
+    "budget_max": 1400000,
+    "bedrooms_min": 4,
+    "bedrooms_max": null,
+    "neighbourhood": [
+      "Coconut Grove",
+      "Coral Gables"
+    ],
+    "property_type": [
+      "house"
+    ],
+    "must_haves": [
+      "pool",
+      "dedicated home office",
+      "good schools"
+    ],
+    "nice_to_haves": [],
+    "timeline": "within 3 months",
+    "buyer_profile": "relocating",
+    "lead_quality": 5,
+    "lead_quality_reason": "Clear budget and specific requirements provided",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100298",
+        "address": "2470 Ponce de Leon Boulevard, Coral Gables",
+        "neighborhood": "Coral Gables",
+        "price": 1458000,
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "sqft": 2769,
+        "match_score": 9,
+        "why_it_fits": "This listing fits Jennifer's requirements as it has a dedicated home office, a pool, and is located in a neighborhood with good schools. The property also has a terrace and central AC, making it a comfortable and desirable home.",
+        "caveats": "The property is a bit above Jennifer's budget, but its amenities and location make it a strong contender."
+      },
+      {
+        "listing_id": "MLS-100109",
+        "address": "5475 Sunset Drive, Coconut Grove",
+        "neighborhood": "Coconut Grove",
+        "price": 1762000,
+        "bedrooms": 5,
+        "bathrooms": 4.5,
+        "sqft": 3695,
+        "match_score": 8,
+        "why_it_fits": "This listing meets Jennifer's requirements as it has a dedicated home office, a pool is not mentioned but the property has a tennis court and bay view, and is located in a neighborhood with good schools. The property also has a gated community and concierge service, making it a secure and desirable home.",
+        "caveats": "The property is pending, which may limit Jennifer's ability to make an offer. Additionally, the price is above her budget."
+      },
+      {
+        "listing_id": "MLS-100085",
+        "address": "869 Meridian Avenue, Coconut Grove",
+        "neighborhood": "Coconut Grove",
+        "price": 1349000,
+        "bedrooms": 8,
+        "bathrooms": 5,
+        "sqft": 3965,
+        "match_score": 7,
+        "why_it_fits": "This listing meets some of Jennifer's requirements as it has a pool is not mentioned but the property has a private beach access, and is located in a neighborhood with good schools. The property also has a gated community and hurricane impact windows, making it a secure and desirable home.",
+        "caveats": "The property does not have a dedicated home office, which is one of Jennifer's must-haves."
+      },
+      {
+        "listing_id": "MLS-100070",
+        "address": "2747 Bay Harbor Terrace, Coral Gables",
+        "neighborhood": "Coral Gables",
+        "price": 1640000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 3092,
+        "match_score": 6,
+        "why_it_fits": "This listing meets some of Jennifer's requirements as it has a pool is not mentioned, and is located in a neighborhood with good schools. The property also has central AC and an updated kitchen, making it a comfortable and desirable home.",
+        "caveats": "The property does not have a dedicated home office, which is one of Jennifer's must-haves. Additionally, the price is above her budget."
+      },
+      {
+        "listing_id": "MLS-100040",
+        "address": "9310 Lincoln Road, Coral Gables",
+        "neighborhood": "Coral Gables",
+        "price": 1349000,
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "sqft": 1861,
+        "match_score": 5,
+        "why_it_fits": "This listing meets some of Jennifer's requirements as it is located in a neighborhood with good schools. The property also has a terrace, making it a desirable home.",
+        "caveats": "The property does not have a dedicated home office or a pool, which are two of Jennifer's must-haves."
+      }
+    ],
+    "matching_note": "The current inventory situation is competitive, with several properties meeting some of Jennifer's requirements. However, only a few properties meet all of her must-haves, making it essential to act quickly to secure the best option.",
+    "filters_relaxed": false,
+    "total_after_filter": 9
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The buyer has a tight timeline of within 3 months and a competitive inventory situation",
+    "realtor_talking_points": [
+      "How soon can you and your family visit Miami to view properties?",
+      "Can you tell me more about your ideal home office setup?",
+      "What are your kids' current school levels and what type of schools are you looking for?",
+      "How important is the pool size and type to your family?"
+    ],
+    "concerns_before_outreach": [
+      "Review the top matched properties to understand which ones best fit the buyer's must-haves",
+      "Be prepared to discuss the competitive inventory situation and the need for a quick decision"
+    ],
+    "suggested_next_action": "Schedule a call with Jennifer to discuss her requirements and the top matched properties",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a personal and interactive conversation to discuss the buyer's needs and expectations",
+    "pre_qual_questions": [
+      "What is your current living situation like in Chicago and what is driving your decision to relocate?",
+      "Have you already begun the process of selling your current home or exploring financing options for your new home?",
+      "Are there any specific neighborhoods or areas in Miami that you are interested in or would like to avoid?"
+    ]
+  }
+}

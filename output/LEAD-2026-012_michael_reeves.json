@@ -1,0 +1,119 @@
+{
+  "lead_id": "LEAD-2026-012",
+  "buyer_name": "Michael Reeves",
+  "status": "success",
+  "requirements": {
+    "budget_min": 500000,
+    "budget_max": 900000,
+    "bedrooms_min": null,
+    "bedrooms_max": null,
+    "neighbourhood": [
+      "Miami-Dade"
+    ],
+    "property_type": [
+      "multi-family",
+      "condos"
+    ],
+    "must_haves": [
+      "cash-flowing",
+      "rental potential"
+    ],
+    "nice_to_haves": [
+      "needs work"
+    ],
+    "timeline": "within 3 months",
+    "buyer_profile": "investor",
+    "lead_quality": 4,
+    "lead_quality_reason": "Clear investment goals and budget",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100191",
+        "address": "6448 NE 199th Street, Downtown Miami",
+        "neighborhood": "Downtown Miami",
+        "price": 563000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 2397,
+        "match_score": 9,
+        "why_it_fits": "This multi-family property has a high potential for cash flow and rental income, with 5 bedrooms and 4 bathrooms. The features such as solar panels and a gated community add to its appeal. The price is also within the buyer's budget.",
+        "caveats": "None"
+      },
+      {
+        "listing_id": "MLS-100273",
+        "address": "9796 Alhambra Circle, Downtown Miami",
+        "neighborhood": "Downtown Miami",
+        "price": 539000,
+        "bedrooms": 2,
+        "bathrooms": 2.5,
+        "sqft": 1042,
+        "match_score": 8,
+        "why_it_fits": "This condo has a lower price point and still offers potential for rental income. The features such as a doorman, boat dock, and waterfront location make it an attractive option. However, the smaller size may be a consideration.",
+        "caveats": "Smaller size"
+      },
+      {
+        "listing_id": "MLS-100090",
+        "address": "509 NE 2nd Avenue, North Beach",
+        "neighborhood": "North Beach",
+        "price": 592000,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "sqft": 1104,
+        "match_score": 8,
+        "why_it_fits": "This condo offers a great location with ocean and bay views, and the price is within the buyer's budget. The features such as a pool and granite countertops add to its appeal. However, the smaller size and fewer bedrooms may be a consideration.",
+        "caveats": "Smaller size and fewer bedrooms"
+      },
+      {
+        "listing_id": "MLS-100261",
+        "address": "4759 Hibiscus Drive, Downtown Miami",
+        "neighborhood": "Downtown Miami",
+        "price": 594000,
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "sqft": 1992,
+        "match_score": 7,
+        "why_it_fits": "This condo offers a great location and a larger size, with 3 bedrooms and 3 bathrooms. The features such as a gym and rooftop add to its appeal. However, the age of the building may be a consideration.",
+        "caveats": "Older building"
+      },
+      {
+        "listing_id": "MLS-100023",
+        "address": "4109 Hibiscus Drive, Miami Beach",
+        "neighborhood": "Miami Beach",
+        "price": 600000,
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "sqft": 1589,
+        "match_score": 7,
+        "why_it_fits": "This townhouse offers a great location and a relatively new build. The features such as a tennis court and gated community add to its appeal. However, the smaller size may be a consideration.",
+        "caveats": "Smaller size"
+      }
+    ],
+    "matching_note": "The current inventory offers a range of options that fit the buyer's criteria, with a focus on properties with potential for cash flow and rental income. However, some properties may have considerations such as smaller size or older buildings.",
+    "filters_relaxed": false,
+    "total_after_filter": 119
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The buyer is an investor looking to close on 2-3 properties within 6 months, indicating a high level of motivation and a specific timeline.",
+    "realtor_talking_points": [
+      "What specific type of cash-flowing properties are you most interested in, multi-family or condos?",
+      "Can you share more about your experience with rental properties and what you're looking for in terms of rental income?",
+      "Have you considered factors like property management and maintenance costs in your budget?",
+      "Are there any specific neighborhoods or areas within Miami-Dade that you're most interested in?"
+    ],
+    "concerns_before_outreach": [
+      "The buyer's budget and timeline may require a high volume of properties to be shown, so it's essential to prioritize and tailor the search accordingly",
+      "Some properties may require renovation or work, which could impact the buyer's budget and timeline"
+    ],
+    "suggested_next_action": "Schedule a call with the buyer to discuss their specific needs and preferences",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a more personal and in-depth conversation to understand the buyer's needs and goals",
+    "pre_qual_questions": [
+      "What is your current experience with real estate investing?",
+      "How will you be financing your property purchases?",
+      "What are your expectations for cash flow and rental income from these properties?"
+    ]
+  }
+}

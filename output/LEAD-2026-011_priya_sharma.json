@@ -1,0 +1,115 @@
+{
+  "lead_id": "LEAD-2026-011",
+  "buyer_name": "Priya Sharma",
+  "status": "success",
+  "requirements": {
+    "budget_min": null,
+    "budget_max": 400000,
+    "bedrooms_min": 1,
+    "bedrooms_max": 2,
+    "neighbourhood": [],
+    "property_type": [
+      "condo"
+    ],
+    "must_haves": [
+      "pet-friendly"
+    ],
+    "nice_to_haves": [
+      "close to Wynwood"
+    ],
+    "timeline": "unknown",
+    "buyer_profile": "first time",
+    "lead_quality": 4,
+    "lead_quality_reason": "First-time buyer with a clear budget and requirements",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100035",
+        "address": "9679 Coral Way, Brickell",
+        "neighborhood": "Brickell",
+        "price": 521000,
+        "bedrooms": 1,
+        "bathrooms": 1.5,
+        "sqft": 1060,
+        "match_score": 8,
+        "why_it_fits": "This listing fits Priya's requirements as it is pet-friendly, has 1 bedroom, and is within her budget of $400,000. Although it's slightly above budget, it's a great option considering its features and location.",
+        "caveats": "Slightly above budget"
+      },
+      {
+        "listing_id": "MLS-100203",
+        "address": "2380 Harbor Drive, North Miami",
+        "neighborhood": "North Miami",
+        "price": 406000,
+        "bedrooms": 2,
+        "bathrooms": 3,
+        "sqft": 1157,
+        "match_score": 9,
+        "why_it_fits": "This listing fits Priya's requirements as it has 2 bedrooms, is pet-friendly (although not explicitly stated, condos often allow pets), and is within her budget. It also has a range of features including a smart home system and concierge.",
+        "caveats": "Pet-friendliness not explicitly stated"
+      },
+      {
+        "listing_id": "MLS-100021",
+        "address": "4448 Crandon Boulevard, Wynwood",
+        "neighborhood": "Wynwood",
+        "price": 502000,
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "sqft": 1633,
+        "match_score": 7,
+        "why_it_fits": "This listing fits Priya's requirements as it has 2 bedrooms and is within her budget. Although it's not explicitly stated as pet-friendly, condos often allow pets. It also has a range of features including a waterfront location and pool.",
+        "caveats": "Pet-friendliness not explicitly stated, slightly above budget"
+      },
+      {
+        "listing_id": "MLS-100161",
+        "address": "7504 Harbor Drive, Aventura",
+        "neighborhood": "Aventura",
+        "price": 445000,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 1979,
+        "match_score": 6,
+        "why_it_fits": "This listing fits Priya's requirements as it has more than 1 bedroom and is within her budget. Although it's not explicitly stated as pet-friendly, condos often allow pets. It also has a range of features including a pool and smart home system.",
+        "caveats": "Pet-friendliness not explicitly stated, more bedrooms than needed"
+      },
+      {
+        "listing_id": "MLS-100151",
+        "address": "7902 Bay Harbor Terrace, Mid-Beach",
+        "neighborhood": "Mid-Beach",
+        "price": 548000,
+        "bedrooms": 2,
+        "bathrooms": 3.5,
+        "sqft": 1515,
+        "match_score": 5,
+        "why_it_fits": "This listing fits Priya's requirements as it has 2 bedrooms, is pet-friendly, and has a range of features including a balcony and ocean view. However, it's above her budget and currently pending.",
+        "caveats": "Above budget, pending sale"
+      }
+    ],
+    "matching_note": "The current inventory situation is competitive, with many listings above Priya's budget. However, there are a few options that fit her requirements, including pet-friendly condos in various neighborhoods. It's recommended to act quickly and consider negotiating prices or exploring other options.",
+    "filters_relaxed": false,
+    "total_after_filter": 41
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "First-time buyer with a clear budget and requirements, and a competitive inventory situation",
+    "realtor_talking_points": [
+      "How soon are you looking to move into a new place?",
+      "Can you tell me more about your commute to Wynwood and what you're looking for in a neighborhood?",
+      "Have you spoken with a lender or started the pre-approval process?",
+      "What are your thoughts on the top matched properties I've identified for you?"
+    ],
+    "concerns_before_outreach": [
+      "The top matched properties are slightly above or at the budget limit, be prepared to discuss negotiation or compromise",
+      "First-time buyer may need additional guidance and support throughout the process"
+    ],
+    "suggested_next_action": "Contact Priya via phone to discuss her requirements and the current inventory situation",
+    "outreach_channel": "call",
+    "outreach_reason": "Phone call allows for a more personal and interactive conversation to address Priya's concerns and questions",
+    "pre_qual_questions": [
+      "Have you been pre-approved for a mortgage or spoken with a lender?",
+      "What is your timeline for purchasing a property?",
+      "Are there any specific amenities or features you're looking for in a condo?"
+    ]
+  }
+}

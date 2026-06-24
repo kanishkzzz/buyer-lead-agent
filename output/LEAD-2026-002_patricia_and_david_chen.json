@@ -1,0 +1,114 @@
+{
+  "lead_id": "LEAD-2026-002",
+  "buyer_name": "Patricia and David Chen",
+  "status": "success",
+  "requirements": {
+    "budget_min": 0,
+    "budget_max": 2300000,
+    "bedrooms_min": 4,
+    "bedrooms_max": null,
+    "neighbourhood": [
+      "Coral Gables",
+      "Pinecrest"
+    ],
+    "property_type": [],
+    "must_haves": [
+      "pool"
+    ],
+    "nice_to_haves": [],
+    "timeline": "flexible",
+    "buyer_profile": "relocating",
+    "lead_quality": 5,
+    "lead_quality_reason": "Clear budget and specific requirements provided",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100298",
+        "address": "2470 Ponce de Leon Boulevard, Coral Gables",
+        "neighborhood": "Coral Gables",
+        "price": 1458000,
+        "bedrooms": 4,
+        "bathrooms": 5,
+        "sqft": 2769,
+        "match_score": 9,
+        "why_it_fits": "This listing fits Patricia and David Chen's requirements as it has 4 bedrooms, a pool, and is within their budget of $0-2,300,000. The property also features a home office, stainless steel appliances, and central AC, making it a comfortable and convenient living space. The villa-style home provides a sense of luxury and privacy.",
+        "caveats": "The property is an older build, constructed in 1956, which may require some updates or maintenance."
+      },
+      {
+        "listing_id": "MLS-100070",
+        "address": "2747 Bay Harbor Terrace, Coral Gables",
+        "neighborhood": "Coral Gables",
+        "price": 1640000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 3092,
+        "match_score": 8,
+        "why_it_fits": "This listing meets the Chen's requirements as it has 5 bedrooms and a pool, and is within their budget. The property features central AC, high ceilings, and an updated kitchen, making it a comfortable and modern living space. The ocean view is also a desirable feature.",
+        "caveats": "The property is an older build, constructed in 1988, which may require some updates or maintenance."
+      },
+      {
+        "listing_id": "MLS-100166",
+        "address": "3675 Kane Concourse, Coral Gables",
+        "neighborhood": "Coral Gables",
+        "price": 2316000,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 1807,
+        "match_score": 7,
+        "why_it_fits": "This listing fits the Chen's requirements as it has 4 bedrooms and is within their budget. The property features a waterfront location, balcony, and rooftop, making it a desirable and luxurious living space. The smart home features and garage are also convenient amenities.",
+        "caveats": "The property has only 2 bathrooms, which may be a limitation for a family of four or more. The square footage is also relatively small compared to other listings."
+      },
+      {
+        "listing_id": "MLS-100097",
+        "address": "5493 Fisher Island Drive, Coral Gables",
+        "neighborhood": "Coral Gables",
+        "price": 1213000,
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "sqft": 2826,
+        "match_score": 6,
+        "why_it_fits": "This listing meets the Chen's requirements as it has 5 bedrooms and is within their budget. The property features smart home technology, solar panels, and a garden, making it a modern and eco-friendly living space.",
+        "caveats": "The property is currently pending, which may limit the Chen's ability to purchase it. Additionally, the listing does not explicitly mention a pool, which is a must-have for the Chen's."
+      },
+      {
+        "listing_id": "MLS-100040",
+        "address": "9310 Lincoln Road, Coral Gables",
+        "neighborhood": "Coral Gables",
+        "price": 1349000,
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "sqft": 1861,
+        "match_score": 5,
+        "why_it_fits": "This listing fits the Chen's requirements as it has 4 bedrooms and is within their budget. The property features pet-friendly amenities and solar panels, making it a convenient and eco-friendly living space.",
+        "caveats": "The property does not have a pool, which is a must-have for the Chen's. The square footage is also relatively small compared to other listings."
+      }
+    ],
+    "matching_note": "The current inventory situation is competitive, with several listings meeting the Chen's requirements. However, some listings may have limitations, such as older builds or smaller square footage, which should be carefully considered when making a decision.",
+    "filters_relaxed": false,
+    "total_after_filter": 8
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The lead has a high quality score, a clear budget, and specific requirements, indicating a motivated buyer.",
+    "realtor_talking_points": [
+      "What specifically drew you to Coral Gables and Pinecrest?",
+      "Can you tell me more about your ideal pool and outdoor space?",
+      "How soon are you looking to make a decision on a property?",
+      "What are your priorities for the kids' elementary school district?"
+    ],
+    "concerns_before_outreach": [
+      "Review the top matched properties to understand their pros and cons",
+      "Be prepared to discuss potential trade-offs, such as older builds or smaller square footage"
+    ],
+    "suggested_next_action": "Schedule a call with Patricia and David Chen to discuss their requirements and top matched properties",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a personal and interactive conversation to understand their needs and build a relationship",
+    "pre_qual_questions": [
+      "What is your current timeline for moving to the area?",
+      "Have you spoken with a lender or secured financing?",
+      "Are there any specific amenities or features you're looking for in a neighborhood?"
+    ]
+  }
+}

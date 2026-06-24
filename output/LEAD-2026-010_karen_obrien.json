@@ -1,0 +1,116 @@
+{
+  "lead_id": "LEAD-2026-010",
+  "buyer_name": "Karen O'Brien",
+  "status": "success",
+  "requirements": {
+    "budget_min": null,
+    "budget_max": 8000000,
+    "bedrooms_min": 5,
+    "bedrooms_max": null,
+    "neighbourhood": [
+      "Key Biscayne",
+      "Bal Harbour"
+    ],
+    "property_type": [
+      "luxury waterfront"
+    ],
+    "must_haves": [
+      "boat dock"
+    ],
+    "nice_to_haves": [],
+    "timeline": "within 3 months",
+    "buyer_profile": "relocating",
+    "lead_quality": 5,
+    "lead_quality_reason": "Clear budget and specific requirements provided",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100170",
+        "address": "9231 West Avenue, Bal Harbour",
+        "neighborhood": "Bal Harbour",
+        "price": 6707000,
+        "bedrooms": 5,
+        "bathrooms": 2,
+        "sqft": 3458,
+        "match_score": 9,
+        "why_it_fits": "This listing meets Karen's requirements with 5 bedrooms and a boat dock. The property is located in a desirable area and has additional features such as a gym and concierge. The price is within Karen's budget.",
+        "caveats": "Only 2 bathrooms"
+      },
+      {
+        "listing_id": "MLS-100007",
+        "address": "6707 NW 41st Street, Bal Harbour",
+        "neighborhood": "Bal Harbour",
+        "price": 6625000,
+        "bedrooms": 5,
+        "bathrooms": 3.5,
+        "sqft": 3900,
+        "match_score": 9,
+        "why_it_fits": "This listing meets Karen's requirements with 5 bedrooms and a boat dock. The property has modern features such as a smart home system and solar panels. The price is within Karen's budget.",
+        "caveats": "None"
+      },
+      {
+        "listing_id": "MLS-100214",
+        "address": "7194 Indian Creek Drive, Bal Harbour",
+        "neighborhood": "Bal Harbour",
+        "price": 6286000,
+        "bedrooms": 5,
+        "bathrooms": 4.5,
+        "sqft": 3249,
+        "match_score": 8,
+        "why_it_fits": "This listing meets Karen's bedroom requirement and has a desirable location with private beach access and a bay view. However, it does not have a boat dock, which is a must-have for Karen.",
+        "caveats": "No boat dock"
+      },
+      {
+        "listing_id": "MLS-100088",
+        "address": "9871 Brickell Avenue, Key Biscayne",
+        "neighborhood": "Key Biscayne",
+        "price": 4688000,
+        "bedrooms": 8,
+        "bathrooms": 6,
+        "sqft": 3941,
+        "match_score": 8,
+        "why_it_fits": "This listing exceeds Karen's bedroom requirement and has a lower price point than some of the other options. However, it does not have a boat dock, which is a must-have for Karen.",
+        "caveats": "No boat dock"
+      },
+      {
+        "listing_id": "MLS-100164",
+        "address": "1120 Crandon Boulevard, Key Biscayne",
+        "neighborhood": "Key Biscayne",
+        "price": 6402000,
+        "bedrooms": 8,
+        "bathrooms": 3,
+        "sqft": 3989,
+        "match_score": 7,
+        "why_it_fits": "This listing exceeds Karen's bedroom requirement and has a desirable location with private beach access. However, it does not have a boat dock, which is a must-have for Karen, and has fewer bathrooms than some of the other options.",
+        "caveats": "No boat dock, fewer bathrooms"
+      }
+    ],
+    "matching_note": "The current inventory offers several options that meet Karen's bedroom requirement, but only a few have a boat dock, which is a must-have. The top matches are MLS-100170 and MLS-100007, which both have a boat dock and meet Karen's other requirements.",
+    "filters_relaxed": false,
+    "total_after_filter": 6
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The buyer has a tight timeline to close before year-end and is flexible with their budget for the right property",
+    "realtor_talking_points": [
+      "What specifically are you looking for in a luxury waterfront property in Key Biscayne or Bal Harbour?",
+      "Can you tell me more about your current situation in NYC and what's driving your relocation?",
+      "How important is the boat dock feature to you, and are there any other must-haves beyond what you've mentioned?",
+      "Have you worked with a realtor before, and what's your experience with the home buying process?"
+    ],
+    "concerns_before_outreach": [
+      "The buyer's budget flexibility and willingness to close quickly may indicate a sense of urgency, but also potential for negotiation",
+      "The buyer's NYC location may require additional coordination for viewings and communication"
+    ],
+    "suggested_next_action": "Schedule a call with Karen to discuss her requirements and top matched properties",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a more personal and interactive conversation to understand Karen's needs and build a relationship",
+    "pre_qual_questions": [
+      "What's your current timeline for viewing properties and making a decision?",
+      "Have you been pre-approved for a mortgage, and if so, what's the approved amount?",
+      "Are there any specific amenities or features beyond a boat dock that you're looking for in a luxury waterfront property?"
+    ]
+  }
+}

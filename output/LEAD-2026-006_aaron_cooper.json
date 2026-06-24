@@ -1,0 +1,119 @@
+{
+  "lead_id": "LEAD-2026-006",
+  "buyer_name": "Aaron Cooper",
+  "status": "success",
+  "requirements": {
+    "budget_min": null,
+    "budget_max": 850000,
+    "bedrooms_min": 3,
+    "bedrooms_max": 3,
+    "neighbourhood": [
+      "Aventura",
+      "North Miami"
+    ],
+    "property_type": [
+      "single family home"
+    ],
+    "must_haves": [
+      "garage"
+    ],
+    "nice_to_haves": [
+      "pool",
+      "updated kitchen"
+    ],
+    "timeline": "unknown",
+    "buyer_profile": "unknown",
+    "lead_quality": 4,
+    "lead_quality_reason": "Buyer has a clear idea of their requirements and budget",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100017",
+        "address": "4883 Hibiscus Drive, Aventura",
+        "neighborhood": "Aventura",
+        "price": 485000,
+        "bedrooms": 4,
+        "bathrooms": 4.5,
+        "sqft": 2671,
+        "match_score": 9,
+        "why_it_fits": "This listing fits Aaron Cooper's requirements as it has 4 bedrooms, a garage, and is within his budget of $850,000. The villa also features a gated community, waterfront view, and hurricane impact windows, making it a desirable choice.",
+        "caveats": "None"
+      },
+      {
+        "listing_id": "MLS-100008",
+        "address": "6909 Bay Harbor Terrace, North Miami",
+        "neighborhood": "North Miami",
+        "price": 382000,
+        "bedrooms": 5,
+        "bathrooms": 3,
+        "sqft": 2778,
+        "match_score": 8,
+        "why_it_fits": "This listing meets Aaron Cooper's requirements as it has 5 bedrooms and is within his budget. Although it doesn't explicitly mention a garage, it's a multi-family property with a relatively large square footage, making it a potential fit.",
+        "caveats": "No garage mentioned"
+      },
+      {
+        "listing_id": "MLS-100104",
+        "address": "1969 Brickell Avenue, North Miami",
+        "neighborhood": "North Miami",
+        "price": 1100000,
+        "bedrooms": 8,
+        "bathrooms": 3,
+        "sqft": 3990,
+        "match_score": 7,
+        "why_it_fits": "This listing has 8 bedrooms, a garage, and is a multi-family property. However, it exceeds Aaron Cooper's budget, making it a less desirable choice.",
+        "caveats": "Exceeds budget"
+      },
+      {
+        "listing_id": "MLS-100163",
+        "address": "3187 Granada Boulevard, Aventura",
+        "neighborhood": "Aventura",
+        "price": 1264000,
+        "bedrooms": 4,
+        "bathrooms": 4,
+        "sqft": 2029,
+        "match_score": 6,
+        "why_it_fits": "This listing has 4 bedrooms, a garage, and is a multi-family property. However, it exceeds Aaron Cooper's budget, making it a less desirable choice.",
+        "caveats": "Exceeds budget"
+      },
+      {
+        "listing_id": "MLS-100174",
+        "address": "1099 Biscayne Boulevard, North Miami",
+        "neighborhood": "North Miami",
+        "price": 424000,
+        "bedrooms": 4,
+        "bathrooms": 2.5,
+        "sqft": 2229,
+        "match_score": 6,
+        "why_it_fits": "This listing meets some of Aaron Cooper's requirements as it has 4 bedrooms and is within his budget. However, it doesn't explicitly mention a garage, making it a less desirable choice.",
+        "caveats": "No garage mentioned"
+      }
+    ],
+    "matching_note": "The current inventory offers a range of options, but only a few listings meet all of Aaron Cooper's requirements. The top matches are mostly villas or multi-family properties with 4 or more bedrooms, and some of them have garages. However, some listings exceed the budget or lack certain features, making them less desirable choices.",
+    "filters_relaxed": false,
+    "total_after_filter": 22
+  },
+  "analysis": {
+    "urgency": "hot",
+    "urgency_reason": "The buyer has a clear idea of what they're looking for and has provided specific requirements",
+    "realtor_talking_points": [
+      "What's your ideal timeline for finding a home?",
+      "Can you tell me more about your priorities for the kitchen and pool?",
+      "Have you considered any other neighborhoods besides Aventura and North Miami?",
+      "How important is the garage to you, is it a non-negotiable?"
+    ],
+    "concerns_before_outreach": [
+      "The buyer's budget is relatively high, so they may have high expectations",
+      "Some of the top matched properties exceed the budget or lack certain features"
+    ],
+    "suggested_next_action": "Call Aaron Cooper to discuss their requirements and provide personalized options",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a more personal and interactive conversation to understand the buyer's needs",
+    "pre_qual_questions": [
+      "What's your current living situation and what's driving your move?",
+      "Have you been pre-approved for a mortgage?",
+      "Are you working with any other real estate agents?"
+    ]
+  }
+}

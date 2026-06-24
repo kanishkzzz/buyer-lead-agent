@@ -1,0 +1,107 @@
+{
+  "lead_id": "LEAD-2026-007",
+  "buyer_name": "Elena Vasquez",
+  "status": "success",
+  "requirements": {
+    "budget_min": null,
+    "budget_max": 600000,
+    "bedrooms_min": 2,
+    "bedrooms_max": 2,
+    "neighbourhood": [
+      "Aventura",
+      "Coral Gables"
+    ],
+    "property_type": [
+      "single-story",
+      "elevator access"
+    ],
+    "must_haves": [
+      "pharmacy nearby",
+      "grocery nearby",
+      "medical nearby"
+    ],
+    "nice_to_haves": [],
+    "timeline": "unknown",
+    "buyer_profile": "relocating",
+    "lead_quality": 4,
+    "lead_quality_reason": "Clear requirements and specific neighbourhoods mentioned",
+    "flags": []
+  },
+  "matches": {
+    "matches": [
+      {
+        "listing_id": "MLS-100284",
+        "address": "5226 Jefferson Avenue, Aventura",
+        "neighborhood": "Aventura",
+        "price": 443000,
+        "bedrooms": 4,
+        "bathrooms": 4.5,
+        "sqft": 2728,
+        "match_score": 9,
+        "why_it_fits": "This listing fits Elena's requirements as it has 4 bedrooms, is within her budget, and Aventura has nearby pharmacies, grocery stores, and medical facilities. The property also features a balcony, updated kitchen, and granite countertops.",
+        "caveats": "The listing has been active for 154 days, which may indicate some flexibility in the seller's price"
+      },
+      {
+        "listing_id": "MLS-100017",
+        "address": "4883 Hibiscus Drive, Aventura",
+        "neighborhood": "Aventura",
+        "price": 485000,
+        "bedrooms": 4,
+        "bathrooms": 4.5,
+        "sqft": 2671,
+        "match_score": 8.5,
+        "why_it_fits": "This villa has 4 bedrooms, is within Elena's budget, and is located in Aventura, which has nearby pharmacies, grocery stores, and medical facilities. The property also features a garage, walk-in closet, and waterfront views.",
+        "caveats": "The listing has been active for 131 days, and the property is a villa, which may have shared walls with neighboring units"
+      },
+      {
+        "listing_id": "MLS-100161",
+        "address": "7504 Harbor Drive, Aventura",
+        "neighborhood": "Aventura",
+        "price": 445000,
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "sqft": 1979,
+        "match_score": 8,
+        "why_it_fits": "This condo has 4 bedrooms, is within Elena's budget, and is located in Aventura, which has nearby pharmacies, grocery stores, and medical facilities. The property also features marble floors, a pool, and a home office.",
+        "caveats": "The property has only 2 bathrooms, which may be a limitation for Elena's needs"
+      },
+      {
+        "listing_id": "MLS-100281",
+        "address": "8411 Harbor Drive, Aventura",
+        "neighborhood": "Aventura",
+        "price": 452000,
+        "bedrooms": 4,
+        "bathrooms": 1.5,
+        "sqft": 2100,
+        "match_score": 7.5,
+        "why_it_fits": "This condo has 4 bedrooms, is within Elena's budget, and is located in Aventura, which has nearby pharmacies, grocery stores, and medical facilities. The property also features a tennis court, rooftop, and boat dock.",
+        "caveats": "The property has only 1.5 bathrooms, which may be a significant limitation for Elena's needs"
+      }
+    ],
+    "matching_note": "The current inventory in Aventura offers several options that meet Elena's requirements, with a range of prices and amenities. However, some listings have been active for an extended period, which may indicate flexibility in the seller's price or potential for negotiation.",
+    "filters_relaxed": false,
+    "total_after_filter": 5
+  },
+  "analysis": {
+    "urgency": "warm",
+    "urgency_reason": "Elena's parents are relocating from out of state, indicating a potential timeline for purchase",
+    "realtor_talking_points": [
+      "What is your parents' expected move-in timeline?",
+      "Can you tell me more about their mobility needs and how important elevator access or single-story living is?",
+      "Have you considered factors like parking and community amenities for your parents?",
+      "Are there any specific pharmacy, grocery, or medical services they require nearby?"
+    ],
+    "concerns_before_outreach": [
+      "Elena's budget and requirements may be influenced by her parents' needs, so it's essential to understand their priorities",
+      "The current inventory in Aventura may offer opportunities for negotiation, but it's crucial to be aware of the market conditions"
+    ],
+    "suggested_next_action": "Contact Elena via phone to discuss her parents' needs and preferences",
+    "outreach_channel": "call",
+    "outreach_reason": "A phone call allows for a more personal and interactive conversation to understand Elena's parents' requirements and provide tailored guidance",
+    "pre_qual_questions": [
+      "What is your parents' current living situation, and what prompted their decision to relocate?",
+      "Have they secured financing or would they like guidance on the mortgage process?",
+      "Are there any specific amenities or services they are looking for in a community?"
+    ]
+  }
+}
